@@ -1,0 +1,44 @@
+#q1{
+   background-color: palegoldenrod;
+    height: 40px;
+    width: 150px;
+    left: 500px;
+    top: 50px;
+    position: absolute;
+    border-radius: 10px;
+    border-color: orange;
+}
+#q2{
+    height: 40px;
+    width: 150px;
+    left: 500px;
+    top: 175px;
+    position: absolute;
+
+}
+#q3{
+    height: 40px;
+    width: 700px;
+    left: 500px;
+    top: 290px;
+    position: absolute;
+
+}
+#q4{
+    height: 40px;
+    width: 700px;
+    left: 500px;
+    top: 405px;
+    position: absolute;
+
+}
+#q5{
+    height: 40px;
+    width: 700px;
+    left: 500px;
+    top: 520px;
+    position: absolute;
+
+}
+
+
